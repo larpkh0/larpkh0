@@ -1,7 +1,7 @@
 # Hiya furry friends ![yo](https://github.com/user-attachments/assets/de57e113-9105-47dc-b9d8-d69fb73456a3)
 
 - I code Slop.
-- I have a website at [larpkh0.eu.org](https://larpkh0.eu.org/).
+- I have a website at [http://larpkh0.rf.gd/](http://larpkh0.rf.gd/).
 - I do security "work" at [a small nonprofit](https://github.com/hackclub) (I do nothing here and everyone hates me irl)
 - I like mangos. (and larping being a hackerman)
 
